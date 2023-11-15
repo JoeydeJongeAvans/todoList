@@ -1,5 +1,3 @@
-// In de Controllers-folder, maak een nieuw bestand TodoController.cs aan.
-
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
