@@ -62,3 +62,7 @@ C:\Users\joeyd\Desktop\Vedr\todoList\backend\ToDoApi\bin\Debug\net7.0\runtimes\w
 C:\Users\joeyd\Desktop\Vedr\todoList\backend\ToDoApi\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\joeyd\Desktop\Vedr\todoList\backend\ToDoApi\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\joeyd\Desktop\Vedr\todoList\backend\ToDoApi\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\joeyd\Desktop\Vedr\todoList\backend\ToDoApi\bin\Debug\net7.0\Humanizer.dll
+C:\Users\joeyd\Desktop\Vedr\todoList\backend\ToDoApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\joeyd\Desktop\Vedr\todoList\backend\ToDoApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\joeyd\Desktop\Vedr\todoList\backend\ToDoApi\bin\Debug\net7.0\System.CodeDom.dll
