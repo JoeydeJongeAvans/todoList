@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  todoapi:
+    build:
+      context: ./backend/ToDoApi  # Het pad naar de map met de Dockerfile
+      dockerfile: Dockerfile
+    ports:
+      - "5219:80"  # Poort op de host is aangepast naar 5219, overeenkomstig met EXPOSE in Dockerfile
